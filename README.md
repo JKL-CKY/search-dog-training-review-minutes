@@ -1,0 +1,2 @@
+# search-dog-training-review-minutes
+灾害搜救犬训练复盘会议气味笔记纪要全栈系统——前端绘制搜救路径与气味热点，后端处理训导员与犬行为专家讨论，librosa降低犬吠与户外风声，Whisper转写气味识别与服从性评估，pyannote识别各犬种训导员，OpenAI生成个体犬只训练改进方案
